@@ -12,6 +12,11 @@
 * [🪄 iFrame Embed](widget/iframe-embed.md)
 * [🌐 React Component](widget/react-component.md)
 
+## 🕹 API
+
+* [🧰 Configure Import](api/configure-import.md)
+* [💐 Data Retrieval](api/data-retrieval.md)
+
 ## 📖 Usecases
 
 * [🚀 Launching the new project](usecases/launching-the-new-project.md)
@@ -20,4 +25,4 @@
 
 ## 🤝 Community
 
-* [Run Impler locally](community/run-impler-locally.md)
+* [💎 Run Impler locally](community/run-impler-locally.md)
