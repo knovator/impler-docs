@@ -120,7 +120,7 @@ Id of the template
 
 ### Column Schema
 
-Column schema is how individual fields in your import look. Its structure includes the following fields,
+Column schema is how individual fields in your import look. Its includes the following fields,
 
 <table><thead><tr><th>Field Name</th><th data-type="select">Type</th><th>Is Required?</th><th>Description</th></tr></thead><tbody><tr><td>name</td><td></td><td>Yes</td><td>Name of the column</td></tr><tr><td>key</td><td></td><td>Yes</td><td>Heading of the field you're expecting in the spreadsheet that gets imported</td></tr><tr><td>alternateKeys</td><td></td><td></td><td>Other possible headings of the field in the spreadsheet</td></tr><tr><td>isRequired</td><td></td><td></td><td>Validation to check if the field and it's value required</td></tr><tr><td>isUnique</td><td></td><td></td><td>Validation to check if the field value should be unique</td></tr><tr><td>type</td><td></td><td>Yes</td><td>Type of the field, available types are <code>String</code>, <code>Number</code>, <code>Date</code>, <code>Email</code>, <code>Regex</code>, <code>Select</code>, and  <code>Any</code>. <code>Email</code> validates the values</td></tr><tr><td>regex</td><td></td><td>Yes if type is <code>Regex</code></td><td>Regular expressions to check against value</td></tr><tr><td>regexDescription</td><td></td><td></td><td>Description of the regular expression</td></tr><tr><td>selectValues</td><td></td><td>Yes if type is <code>Select</code></td><td>List of values that are valid</td></tr><tr><td>sequence</td><td></td><td></td><td>Sequence number to maintain the field ordering</td></tr></tbody></table>
 

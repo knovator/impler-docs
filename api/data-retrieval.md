@@ -1,5 +1,5 @@
 ---
-description: Guide on data that user imports will be sent to the application
+description: Guide on how imported spreadsheet data will be sent to the application
 ---
 
 # 💐 Data Retrieval
