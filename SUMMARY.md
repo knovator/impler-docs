@@ -4,7 +4,7 @@
 
 * [☺ Introduction](README.md)
 * [🧿 How to Use it?](overview/how-to-use-it.md)
-* [🤖 Deploy using Docker](overview/deploy-using-docker.md)
+* [🐋 Deploy using Docker](overview/deploy-using-docker.md)
 
 ## 🏂 Widget
 
